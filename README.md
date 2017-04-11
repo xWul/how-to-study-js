@@ -1,4 +1,4 @@
-# How to Study Javascript
+# Javascript Roadmap
  *Um roteiro para aprender Javascript básico e melhorar suas habilidades*
 
 > Os códigos apresentados podem ser executados diretamente no console do seu navegador.
