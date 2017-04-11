@@ -25,7 +25,7 @@ console.log("Hello my name is " + userName + " and I'm from " + locale);
 + Algumas boas práticas para variáveis:
     -   Use apenas letras(a-z ou A-Z) e números(0-9)
     -   Não inicie o nome de uma variável com um número
-    -   Utilize lowerCamelCase que é uma prática de escrever frases compostas, iniciando pela primeira palavra toda em minúsculo e as iniciais seguintes em maiúsculo.
+    -   Utilize lowerCamelCase que é uma prática de escrever frases compostas, iniciando pela primeira palavra toda em minúsculo e as iniciais das frases seguintes em maiúsculo.
 + Exemplos
 ```javascript
 //bad names
