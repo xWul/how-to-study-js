@@ -4,7 +4,7 @@
 > Os códigos apresentados podem ser executados diretamente no console do seu navegador.
 
 ## Conteúdo
-1.  [Variáveis](#variables)
+1.  [Variáveis](#variaveis)
 
 ## Variáveis
 + As variáveis são objetos que é utilizado para representar um valor, uma variável pode ser iniciada utilizando a sintaxe `var`.
@@ -19,7 +19,8 @@ console.log(userName); //John Snow
 var userName = "John Snow";
 var locale = "Winterfell";
 
-console.log("Hello my name is " + userName + " and I'm from " + locale); //Hello my name is John Snow and I'm from Winterfell
+console.log("Hello my name is " + userName + " and I'm from " + locale);
+//Hello my name is John Snow and I'm from Winterfell
 ```
 + Algumas boas práticas para variáveis:
     -   Use apenas letras(a-z ou A-Z) e números(0-9)
